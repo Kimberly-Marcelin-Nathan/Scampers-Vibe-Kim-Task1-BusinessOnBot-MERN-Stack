@@ -66,6 +66,18 @@ ___
 ![13](https://user-images.githubusercontent.com/82994804/221876171-05bf5ec4-85de-4184-8293-5d2564323e2a.PNG)
 ##### Hahhh!!! Now once you are very much contented with what you've done it's time to logout!!
 ___
+![1](https://user-images.githubusercontent.com/82994804/221883158-c2ebcd6f-6601-4024-8720-c51fb6e9560e.PNG)
+##### Existing Users Post Details
+___
+![2](https://user-images.githubusercontent.com/82994804/221884380-276bf0da-6d0e-4cc7-b288-0bbeb4e36af7.PNG)
+##### User Details of priorly registered user
+___
+![19](https://user-images.githubusercontent.com/82994804/221884785-4f368596-fa6f-482d-b8d0-a6c397ef1300.PNG)
+##### User Details of newly registered user
+___
+![18](https://user-images.githubusercontent.com/82994804/221884921-2c29bacb-4c30-48b0-b9ca-5ea70abeaf44.PNG)
+##### Post Details of the new user
+___
 # Frontend Technologies:
 
 ##### `React is used as Framework`
