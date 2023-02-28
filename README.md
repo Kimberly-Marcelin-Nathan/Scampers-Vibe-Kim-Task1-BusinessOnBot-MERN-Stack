@@ -1,4 +1,5 @@
 # Scampers-Vibe-Kim-Task1-BusinessOnBot-MERN Full Stack
+
 ## Scampers Vibe is a social post dashboard where users can do the following:
 
 ##### New user - Register & Login
@@ -62,6 +63,16 @@ https://scampersvibeclient.onrender.com/
 
 ![13](https://user-images.githubusercontent.com/82994804/221876171-05bf5ec4-85de-4184-8293-5d2564323e2a.PNG)
 ##### Hahhh!!! Now once you are very much contented with what you've done it's time to logout!!
+
+# Frontend Technologies:
+
+##### React is used as Framework
+##### React Router for Navigation
+##### Formik + Yup for Form & Form Validation
+##### Redux Toolkit for State Management
+##### Redux with persistent to store in local storage
+##### React drop zone for image uploads
+
 
 
 
