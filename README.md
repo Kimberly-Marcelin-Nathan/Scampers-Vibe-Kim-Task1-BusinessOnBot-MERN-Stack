@@ -1,4 +1,4 @@
-# Scampers-Vibe-Kim-Task1-BusinessOnBot
+# Scampers-Vibe-Kim-Task1-BusinessOnBot-MERN Full Stack
 ## Scampers Vibe is a social post dashboard where users can do the following:
 
 ##### New user - Register & Login
