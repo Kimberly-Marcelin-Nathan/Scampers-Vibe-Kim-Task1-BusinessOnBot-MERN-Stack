@@ -1,5 +1,6 @@
 # Scampers-Vibe-Kim-Task1-BusinessOnBot
 Scampers Vibe is a social post dashboard where users can do the following:
+
 ### New user - Register & Login
 ### Existing user - Login
 ### View others posts & comments on it
