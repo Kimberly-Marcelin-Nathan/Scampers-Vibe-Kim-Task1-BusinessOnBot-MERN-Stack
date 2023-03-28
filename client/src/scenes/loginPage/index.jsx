@@ -10,8 +10,7 @@ const LoginPage = () => {
         width="100%"
         backgroundColor={theme.palette.background.alt}
         p="1rem 6%"
-        textAlign="center"
-      >
+        textAlign="center">
         <Typography fontWeight="bold" fontSize="32px" color="primary">
           Scampers Vibe
         </Typography>
@@ -22,8 +21,8 @@ const LoginPage = () => {
         p="2rem"
         m="2rem auto"
         borderRadius="1.5rem"
-        backgroundColor={theme.palette.background.alt}
-      >
+        backgroundColor={theme.palette.background.alt}>
+          
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
           Welcome to Scampers Vibe, this is developed by Kimberly Marcelin Nathan!
         </Typography>
